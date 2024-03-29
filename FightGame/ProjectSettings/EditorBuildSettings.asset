@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnaMenu.unity
+    guid: 62bdccdb6853c5746b7a2b8fabaa908c
+  - enabled: 1
+    path: Assets/Scenes/Oda.unity
+    guid: 999e6a6ec0f8633449d7f2d2aadbbf94
+  m_configObjects: {}
